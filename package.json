@@ -1,6 +1,6 @@
 {
     "name": "typography-theme-otis",
-    "description": "A Typography.js theme optimized for wrtier blog",
+    "description": "A Typography.js theme optimized for readability",
     "version": "0.10.0",
     "author": "Stefano Perelli <ste.perelli@gmail.com>",
     "dependencies": {
@@ -19,7 +19,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/KyleAMathews/typography.js.git"
+        "url": "https://github.com/devbewill/typography-theme-otis.git"
     },
     "main": "./dist/index.js",
     "scripts": {
