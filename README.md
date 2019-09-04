@@ -9,7 +9,7 @@ npm install --save typography typography-theme-otis
 ## Usage
 ```javascript
 import Typography from 'typography'
-import sutroTheme from 'typography-theme-otis'
+import otisTheme from 'typography-theme-otis'
 
 const typography = new Typography(otisTheme)
 ```
