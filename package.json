@@ -3,6 +3,7 @@
     "description": "A Typography.js theme optimized for readability",
     "version": "0.10.2",
     "author": "Stefano Perelli <ste.perelli@gmail.com>",
+    "main": "./dist/index.js",
     "dependencies": {
         "gray-percentage": "^2.0.0",
         "typography-breakpoint-constants": "^0.16.19"
