@@ -1,7 +1,7 @@
 {
     "name": "typography-theme-otis",
     "description": "A Typography.js theme optimized for readability",
-    "version": "0.10.2",
+    "version": "0.10.3",
     "author": "Stefano Perelli <ste.perelli@gmail.com>",
     "main": "./dist/index.js",
     "dependencies": {
