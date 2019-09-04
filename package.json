@@ -1,7 +1,7 @@
 {
     "name": "typography-theme-otis",
     "description": "A Typography.js theme optimized for readability",
-    "version": "0.10.0",
+    "version": "0.10.2",
     "author": "Stefano Perelli <ste.perelli@gmail.com>",
     "dependencies": {
         "gray-percentage": "^2.0.0",
@@ -21,7 +21,6 @@
         "type": "git",
         "url": "https://github.com/devbewill/typography-theme-otis.git"
     },
-    "main": "./dist/index.js",
     "scripts": {
         "build": "../../node_modules/.bin/babel src --out-dir dist/",
         "flow": "../../node_modules/.bin/flow",
